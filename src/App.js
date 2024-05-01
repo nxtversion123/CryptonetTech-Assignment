@@ -4,7 +4,7 @@ import Navbar from "./components/Navbar";
 
 function App() {
   return (
-    <div className="" style={{background:'#ccdbbd', height:'50pc',}}>
+    <div className="" style={{background:'#ccdbbd', height:'45pc',}}>
     <Navbar />
           <Card  />
       <Fetch />
