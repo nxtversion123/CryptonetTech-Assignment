@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/CryptonetTech-Assignment/static/css/main.e6c13ad2.css",
+    "main.js": "/CryptonetTech-Assignment/static/js/main.a9e705f3.js",
+    "static/js/453.3dd35f27.chunk.js": "/CryptonetTech-Assignment/static/js/453.3dd35f27.chunk.js",
+    "static/media/loading.gif": "/CryptonetTech-Assignment/static/media/loading.aa835b80d8fc8254ba2b.gif",
+    "index.html": "/CryptonetTech-Assignment/index.html",
+    "main.e6c13ad2.css.map": "/CryptonetTech-Assignment/static/css/main.e6c13ad2.css.map",
+    "main.a9e705f3.js.map": "/CryptonetTech-Assignment/static/js/main.a9e705f3.js.map",
+    "453.3dd35f27.chunk.js.map": "/CryptonetTech-Assignment/static/js/453.3dd35f27.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.a9e705f3.js"
+  ]
+}
